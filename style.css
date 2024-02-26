@@ -1,0 +1,11 @@
+@import url(var.css);
+
+:root {
+    color: #0091ff;
+    font-family: 'Arial', sans-serif;
+    background-color:var(--background);
+    background-image:url(../topography.svg);
+    -webkit-animation-name:fadeIn;
+    animation-name:fadeIn;
+    animation-duration:1s;
+}
